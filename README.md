@@ -2,7 +2,7 @@
 
 **Course:** CEN352 – Artificial Intelligence  
 **Project Type:** Integrative AI System  
-**Team:** Albi Arbri
+**Team:** Arbri Hamzallari , Albi Hoxha
 
 ## Project Overview
 
