@@ -3,8 +3,8 @@
 **Course:** CEN352 – Artificial Intelligence  
 **Project Type:** Integrative AI System  
 **Semester:** 2025-26  
-**Team Members:** Albi Arbri  
-**Repository:** [GitHub Repository](https://github.com/classroom/cen352-term-project-2025-26-albi-arbri)
+**Member:** Arbri  
+
 
 ---
 
