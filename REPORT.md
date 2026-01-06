@@ -3,7 +3,7 @@
 **Course:** CEN352 – Artificial Intelligence  
 **Project Type:** Integrative AI System  
 **Semester:** 2025-26  
-**Member:** Arbri  
+**Member:** Arbri Hamzallari
 
 
 ---
